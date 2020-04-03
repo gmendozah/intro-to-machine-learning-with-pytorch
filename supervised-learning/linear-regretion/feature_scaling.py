@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Assign the data to predictor and outcome variables
 # TODO: Load the data
-train_data = pd.read_csv('fa_dataset.csv', header = None)
+train_data = pd.read_csv('fs_dataset.csv', header = None)
 X = train_data.iloc[:,:-1]
 y = train_data.iloc[:,-1]
 
