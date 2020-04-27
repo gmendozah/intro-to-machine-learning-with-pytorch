@@ -18,9 +18,8 @@ This will open the iPython Notebook software and project file in your browser.
 
 Each project will be committed in the `projects/` folder.
 
-## Certificate
 ![](assets/certificate.png)
 
-[Verify](https://confirm.udacity.com/RAAMVKKN)
+[link](https://confirm.udacity.com/RAAMVKKN)
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
