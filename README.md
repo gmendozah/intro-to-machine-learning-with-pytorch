@@ -23,6 +23,7 @@ Each project will be committed in the `projects/` folder.
 
 ## Program Certificate
 ![](assets/machine%20learning%20introduction.jpg)
+
 Verify [here](https://graduation.udacity.com/confirm/RAAMVKKN)
 
 ## Table of Contents
