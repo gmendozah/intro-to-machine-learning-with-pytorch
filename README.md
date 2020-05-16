@@ -26,8 +26,5 @@ Each project will be committed in the `projects/` folder.
 
 Verify [here](https://graduation.udacity.com/confirm/RAAMVKKN)
 
-## Table of Contents
-[link](https://confirm.udacity.com/RAAMVKKN)
-
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
