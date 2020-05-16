@@ -1,6 +1,9 @@
 # Machine Learning - Introduction Nanodegree Program
 IMLND is a repo in which keeps track of the progress of the introduction to mahcine learning using pytorch offred by Udacity.
 
+## Table of Contents
+
+
 ## Installation
 This project requires **Python 3.6.0** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
@@ -18,8 +21,12 @@ This will open the iPython Notebook software and project file in your browser.
 
 Each project will be committed in the `projects/` folder.
 
-![](assets/certificate.png)
+## Program Certificate
+![](assets/machine%20learning%20introduction.jpg)
+Verify [here](https://graduation.udacity.com/confirm/RAAMVKKN)
 
+## Table of Contents
 [link](https://confirm.udacity.com/RAAMVKKN)
+
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
