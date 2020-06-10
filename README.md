@@ -13,14 +13,14 @@ IMLND is a repo in which keeps track of the progress of the introduction to mahc
 
 <a name="introml"/>
 
-## Introduction to Machine Learning
+### Introduction to Machine Learning
 
 This section discusses the topic of **What is Machine Learning?**
 
 
 <a name="supervisedl"/>
 
-## Supervised Learning
+### Supervised Learning
 
 Linear Regression
 
@@ -41,7 +41,7 @@ Training and Tuning
 
 <a name="deepl"/>
 
-## Deep Learning
+### Deep Learning
 
 Introduction to Neural Networks
 
@@ -54,7 +54,7 @@ Deep Learning with PyTorch
 
 <a name="unsupervisedl"/>
 
-## Unsupervised Learning
+### Unsupervised Learning
 
 Clustering
 
