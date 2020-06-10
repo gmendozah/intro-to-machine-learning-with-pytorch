@@ -3,6 +3,15 @@ IMLND is a repo in which keeps track of the progress of the introduction to mahc
 
 ## Table of Contents
 
+[1. Introduction to Machine Learning](#introml)
+
+[2. Supervised Learning](#supervisedl)
+
+[3. Deep Learning](#deepl)
+
+[4. Unsupervised Learning](#unsupervisedl)
+
+
 
 ## Installation
 This project requires **Python 3.6.0** and the following Python libraries installed:
