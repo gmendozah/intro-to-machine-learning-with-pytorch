@@ -15,7 +15,60 @@ IMLND is a repo in which keeps track of the progress of the introduction to mahc
 
 ## Introduction to Machine Learning
 
+This section discusses the topic of **What is Machine Learning?**
+
+
+<a name="supervisedl"/>
+
+## Supervised Learning
+
+Linear Regression
+
+Perceptron Algorithm
+
+Decision Trees
+
+Naive Bayes
+
+Suport Vector Machines
+
+Ensemble Methods
+
+Model Evaluation Metrics
+
+Training and Tuning
+
+
+<a name="deepl"/>
+
+## Deep Learning
+
+Introduction to Neural Networks
+
+Implementing Gradient Descent
+
+Training Neural Networks
+
+Deep Learning with PyTorch
+
+
+<a name="unsupervisedl"/>
+
+## Unsupervised Learning
+
+Clustering
+
+Hierarchical and Density Based Clustering
+
+Gaussian Mixture Models and Cluster Validation
+
+Dimensionality Reduction and PCA
+
+Random Projection and ICA
+
+
 ## Installation
+
 This project requires **Python 3.6.0** and the following Python libraries installed:
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
