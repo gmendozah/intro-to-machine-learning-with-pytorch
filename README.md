@@ -11,6 +11,15 @@ IMLND is a repo in which keeps track of the progress of the introduction to mahc
 
 [4. Unsupervised Learning](#unsupervisedl)
 
+[5. Installation](#installation)
+
+[6. Run](#run)
+
+[7. Program Certificate](#pcertificate)
+
+[8. License](#license)
+
+
 <a name="introml"/>
 
 ### Introduction to Machine Learning
@@ -22,50 +31,52 @@ This section discusses the topic of **What is Machine Learning?**
 
 ### Supervised Learning
 
-Linear Regression
+Linear Regression.
 
-Perceptron Algorithm
+Perceptron Algorithm.
 
-Decision Trees
+Decision Trees.
 
-Naive Bayes
+Naive Bayes.
 
-Suport Vector Machines
+Support Vector Machines.
 
-Ensemble Methods
+Ensemble Methods.
 
-Model Evaluation Metrics
+Model Evaluation Metrics.
 
-Training and Tuning
+Training and Tuning.
 
 
 <a name="deepl"/>
 
 ### Deep Learning
 
-Introduction to Neural Networks
+Introduction to Neural Networks.
 
-Implementing Gradient Descent
+Implementing Gradient Descent.
 
-Training Neural Networks
+Training Neural Networks.
 
-Deep Learning with PyTorch
+Deep Learning with PyTorch.
 
 
 <a name="unsupervisedl"/>
 
 ### Unsupervised Learning
 
-Clustering
+Clustering.
 
-Hierarchical and Density Based Clustering
+Hierarchical and Density Based Clustering.
 
-Gaussian Mixture Models and Cluster Validation
+Gaussian Mixture Models and Cluster Validation.
 
-Dimensionality Reduction and PCA
+Dimensionality Reduction and PCA.
 
-Random Projection and ICA
+Random Projection and ICA.
 
+
+<a name="installation"/>
 
 ## Installation
 
@@ -74,6 +85,9 @@ This project requires **Python 3.6.0** and the following Python libraries instal
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+
+
+<a name="run"/>
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory `intro-to-machine-learning-with-pytorch/` (that contains this README) and run the following command:
@@ -85,10 +99,16 @@ This will open the iPython Notebook software and project file in your browser.
 
 Each project will be committed in the `projects/` folder.
 
-## Program Certificate
+
+<a name="pcertificate"/>
+
+## I Finally Graduated! :blush:
 ![](assets/machine%20learning%20introduction.jpg)
 
 Verify [here](https://graduation.udacity.com/confirm/RAAMVKKN)
+
+
+<a name="license"/>
 
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
